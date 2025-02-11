@@ -1,4 +1,4 @@
-package Java_8_Features.Predicates.FunctionalInterfaces;
+package Java_8_Features.Predicates;
 
 import java.util.Arrays;
 import java.util.List;
