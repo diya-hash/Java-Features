@@ -1,4 +1,4 @@
-package Java_8_Features.Predicates;
+package Java_8_Features.FunctionalInterfaces.Predicates;
 
 import java.util.function.Predicate;
 
