@@ -1,4 +1,4 @@
-package StreamAPI;
+package Java_8_Features.StreamAPI;
 
 import java.util.Arrays;
 import java.util.List;
